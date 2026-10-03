@@ -1,0 +1,6 @@
+"mattandmark"
+{
+	"title"		"Matt and Mark"
+	"maps"		"^mam_"
+	"menusystem"	"0"
+}
